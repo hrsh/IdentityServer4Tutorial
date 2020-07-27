@@ -3,6 +3,7 @@
     "SelfHost": {
       "commandName": "Project",
       "launchBrowser": true,
+      "launchUrl": "home/index",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
